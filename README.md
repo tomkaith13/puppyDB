@@ -1,5 +1,6 @@
 # puppyDB
 PuppyDB - an in-memory database that does fast GET,SET,BEGIN, NUMEQUALTO operations. 
+Its fast and its still growing - like a puppy.
 Implemented in C++.
 
 The database should accept the following commands:
